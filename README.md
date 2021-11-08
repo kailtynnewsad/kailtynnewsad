@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kailtynnewsad
-- 👀 I’m interested in web development (front end and back end development).
-- 🌱 I’m currently learning web security and data structures.
+- 👀 I’m interested in web development and front end developement.
+- 🌱 I’m currently learning mobile app developement.
 - 📫 How to reach me knewsad@gmail.com
 
 <!---

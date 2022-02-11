@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kailtynnewsad
 - 👀 I’m interested in web development and front end developement.
-- 🌱 I’m currently learning mobile app developement.
+- 🌱 I’m currently learning PHP.
 - 📫 How to reach me knewsad@gmail.com
 
 <!---
